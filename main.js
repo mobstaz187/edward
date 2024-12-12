@@ -150,7 +150,7 @@ function commander(cmd) {
         before = document.getElementById("before");
       }, 1);
       break;
-    case "banner":
+    case "home":
       loopLines(banner, "", 80);
       break;
     // socials
