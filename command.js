@@ -169,8 +169,9 @@ banner = [
 '  ( __---~~~(    _-~/   |\\   )--~~           ~~--(   /|   \\~-_)  ~~~---__ )',
 '   (    _-~~~~--~  (   |  ~-~                     ~-~  |   )~--~~~~-_    )',
 '</br>',
-'<span class="color2">Hello! I am EDWARD</span>',
-  '<span class="color2">A virtual artificial intelligence</span>',
+'<span class="color2">Unauthorized access will be reported to security.</span>',
+'<span class="color2">Welcome back Sir.</span>',
+  '<span class="color2">AI Initiated</span>',
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
 
