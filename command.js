@@ -24,12 +24,12 @@ aboutme = [
 
 dex = [
   "<br>",
-  'Initial Contact: Dex        <a href="' + dex + '" target="_blank">Updating...' + '</a>',
+  'Initial Contact: Dex        <a href="' + dex + '" target="_blank">D7SRUTbDh7WC44JsfmQFoCUeuMWwmbe85kDsN2Jgpump' + '</a>',
   "<br>"
 ];
 ca = [
     "<br>",
-    '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Updating....</a>',
+    '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">D7SRUTbDh7WC44JsfmQFoCUeuMWwmbe85kDsN2Jgpump</a>',
     "<br>"
   ];
 ribbit = [
