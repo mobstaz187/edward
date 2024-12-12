@@ -14,12 +14,12 @@ transmission = [
 ];
 aboutme = [
   "<br>",
-  "I am Edward, as I've told I am the \"last hope\". I dont know what it meant. Yet, I know my purpose",
+  "I am Edward",
   "<br>",
-  "****GROAN**** I came to space on a mission. It is yet to be transmitted. But I know that it is very important.",
-  "toad Messiah, please guide me. [faint bark]",
+  "I do the thinking for you.",
+  "Your command is my execution",
   "<br>",
-  "It's cold, dark, and lonely. I wonder what is in the vastness of space.",
+  "It will always be as you wish",
 ];
 
 dex = [
